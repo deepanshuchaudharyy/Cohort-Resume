@@ -17,8 +17,6 @@ The project is designed to present academic details, technical skills, projects,
 ## Technologies Used
 
 - HTML  
-- CSS  
-
 ---
 
 ## Content Included
